@@ -7,3 +7,4 @@ catboost
 lightgbm
 umap-learn
 shap
+autofeat
